@@ -1,4 +1,7 @@
-for (i=0; i<10; i++){
-    console.log("trying");
+function myBMI (a,b){
+    var BMI = b / (a*a) ;
+    console.log(BMI);
+    return BMI;
 }
-document.write("done")
+var myResult = myBMI(1.62,49);
+console.log("your BMI equals:" + myResult);
