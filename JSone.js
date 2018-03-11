@@ -46,3 +46,33 @@ tvPrice.logName();
 tvPrice1.fullPrice(987.99, 0.08);
 tvPrice1.logName();
 
+//dates
+
+var myDate = new Date ();
+console.log(myDate);
+
+var courseStart = new Date(2018, 2, 26, 9);
+console.log(courseStart);
+if(courseStart.getDay() == 0){
+    console.log("It starts on Sunday");
+}
+else if (courseStart.getDay() == 1) {
+    console.log("It starts on Monday");
+}
+else if (courseStart.getDay() == 2) {
+    console.log("It starts on Tuesday");
+}
+else if (courseStart.getDay() == 3) {
+    console.log("It starts on Wednesday");
+}
+else if (courseStart.getDay() == 4) {
+    console.log("It starts on Thursday");
+}
+else if (courseStart.getDay() == 5) {
+    console.log("It starts on Friday");
+}
+else{
+    console.log("It starts on Saturday");
+};
+
+//
