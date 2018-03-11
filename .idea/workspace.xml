@@ -20,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/JSone.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="504">
-              <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+              <caret line="94" column="2" lean-forward="false" selection-start-line="94" selection-start-column="2" selection-end-line="94" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -161,12 +161,12 @@
       <updated>1520454702293</updated>
       <workItem from="1520454703749" duration="702000" />
       <workItem from="1520456149666" duration="28000" />
-      <workItem from="1520536285131" duration="14162000" />
+      <workItem from="1520536285131" duration="14634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14892000" />
+    <option name="totallyTimeSpent" value="15364000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1537" height="807" extended-state="6" />
@@ -263,7 +263,7 @@
     <entry file="file://$PROJECT_DIR$/JSone.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
-          <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <caret line="94" column="2" lean-forward="false" selection-start-line="94" selection-start-column="2" selection-end-line="94" selection-end-column="2" />
           <folding />
         </state>
       </provider>

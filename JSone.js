@@ -86,13 +86,13 @@ newTitle.innerHTML = "hello y'all";
 
 body.appendChild(newSubTitle);
 newSubTitle.innerHTML = "hello hello!";
+
+//insert new element "before"
+var someP = document.createElement("p");
+someP.innerHTML="what what";
+body.insertBefore(someP, body.getElementsByTagName("h1")[0]);
+
 //
-
-
-
-
-
-
 
 
 
