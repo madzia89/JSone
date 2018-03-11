@@ -75,4 +75,42 @@ else{
     console.log("It starts on Saturday");
 };
 
+//adding elements to the DOM
+var newTitle = document.createElement("h1");
+var newSubTitle = document.createElement("h2");
+
+var body= document.getElementsByTagName("body")[0];
+
+body.appendChild(newTitle);
+newTitle.innerHTML = "hello y'all";
+
+body.appendChild(newSubTitle);
+newSubTitle.innerHTML = "hello hello!";
 //
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
