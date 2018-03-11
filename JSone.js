@@ -92,6 +92,8 @@ var someP = document.createElement("p");
 someP.innerHTML="what what";
 body.insertBefore(someP, body.getElementsByTagName("h1")[0]);
 
+//removing elements from the DOM
+var removed = someP.remove("p");
 //
 
 
